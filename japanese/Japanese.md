@@ -1,3 +1,8 @@
+---
+layout: default
+theme: jekyll-theme-minimal
+---
+
 # Japanese
 
 One of my more recent goals has been learning a new language, and since I'm half Japanese, I decided on learning Japanese.   
