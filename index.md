@@ -10,3 +10,5 @@ title: "Home"
 
 I'm reviving this page.
 
+[Link to Hiragana](japaneseNotes/basics/hiragana.md)
+
