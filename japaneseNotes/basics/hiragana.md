@@ -30,7 +30,7 @@ Below is a chart that contains all 71 Hiragana characters and their pronunciatio
 |'a' characters|'i' characters|'u' characters|'e' characters|'o' characters|'n' character |
 |--------------|--------------|--------------|--------------|--------------|--------------|
 |あ (a)|い (i)|う (u)|え (e)|お (o)|ん (n)|
-|か (ki)|き (ki)|く (ku)|け (ku)|こ (ko)|
+|か (ka)|き (ki)|く (ku)|け (ke)|こ (ko)|
 |さ (sa)|し (shi)|す (su)|せ (se)|そ (so)|
 |た (ta)|ち (chi)|つ (tsu)|て (te)|と (to)|
 |な (na)|に (ni)|ぬ (nu)|ね (ne)|の (no)|
@@ -38,7 +38,7 @@ Below is a chart that contains all 71 Hiragana characters and their pronunciatio
 |ま (ma)|み (mi)|む (mu)|め (me)|も (mo)|
 |や (ya)|N/A|ゆ (yu)|N/A|よ (yo)|
 |ら (ra)|り (ri)|る (ru)|れ (re)|ろ (ro)|
-|わ (wa)|ゐ (wi)*|N/A|ゑ (wu)*|を (wo)|
+|わ (wa)|ゐ (wi)*|N/A|ゑ (we)*|を (wo)|
 |が (ga)|ぎ (gi)|ぐ (gu)|げ (ge)|ご (go)|
 |ざ (za)|じ (ji)|ず (zu)|ぜ (ze)|ぞ (zo)|
 |だ (da)|ぢ (dji)|づ (dzu)|で (de)|ど (do)|
