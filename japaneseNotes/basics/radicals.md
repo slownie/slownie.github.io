@@ -23,6 +23,7 @@ All radical are categorized based on their position within a kanji.
 There are seven positions in total and the radical will always be in said position. 
 
 The positions are as follows: 
+
 |Hiragana|Romaji|Position|
 |--------|------|--------|
 |へん|Hen|Left Side|
@@ -32,7 +33,6 @@ The positions are as follows:
 |かまえ|Kamae|Enclosing|
 |たれ|Tare|Hanging|
 |にょう|Nyou|Wrap Around|
-||||
 
 # How many Radicals do I need to know?
 There are 214 radicals but not all of them are in use in modern Japanese.  
