@@ -6,12 +6,18 @@ title: "Katakana"
 # What is Katakana?
 Katakana is one of three systems used in modern Japanese. It means "fragmentary syllabic script" in Japanese.
 
-Katakana has the same pronunciations as Hiragana, but the characters are different in both appearance and usage. For example, あ and ア represent the same sound, 'a'.
+Katakana has the same pronunciations as Hiragana, but the characters are different in both appearance and usage. 
+
+For example, あ and ア represent the same sound, 'a'.
 
 # Usage
-Katakana is primarily used to write words from a foreign language. For example, TV is written as テレビ since there is no kanji equivalent because it is a foreign word. This also applies to foreign names like トム (Tom), and other countries like アメリカ (America).
+Katakana is primarily used to write words from a foreign language. For example, TV is written as テレビ since there is no kanji equivalent because it is a foreign word. 
 
-Katakana is also used to represent onomatopoeia in Japanese. For example, ワンワン is used to represent the sound of a dog barking. It is also used to indicate the Onyomi of a Kanji, but that will be talked about in the next section.
+This also applies to foreign names like トム (Tom), and other countries like アメリカ (America).
+
+Katakana is also used to represent onomatopoeia in Japanese. For example, ワンワン is used to represent the sound of a dog barking. 
+
+It is also used to indicate the Onyomi of a Kanji, but that will be talked about in the next section.
 
 # Chart
 Below is a chart that contains all 71 Katakana characters and their pronunciations.
