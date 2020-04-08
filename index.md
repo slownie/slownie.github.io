@@ -11,4 +11,5 @@ title: "Home"
 I'm reviving this page.
 
 [Link to Hiragana](japaneseNotes/basics/hiragana.md)
+[Link to Katakana](japaneseNotes/basics/katakana.md)
 
