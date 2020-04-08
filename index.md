@@ -8,8 +8,6 @@ title: "Home"
 
 # Welcome
 
-I'm reviving this page.
+I'm reviving this page., it'll look blank for a while.
 
-[Link to Hiragana](japaneseNotes/basics/hiragana.md)
-[Link to Katakana](japaneseNotes/basics/katakana.md)
-
+[Link to Japanese Notes](japaneseNotes/jpN.md)
