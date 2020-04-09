@@ -26,3 +26,23 @@ In Japanese, the topic of a sentence is very similar to the subject in other lan
 
 But, they are different as it also possible for an object to be the topic in Japanese.
 
+## が - Subject Marker
+が indicates the subject of the sentence.
+
+This particle is also used when a subject is introduced for the first time, or when the speaker
+
+believes the information to be new to the listener. In cases like these, が is used after the noun
+
+instead of は. Once the subject is understood, it can then become the topic.
+
+**Example:**  
+バスが来ます。
+"The bus is coming."
+
+誰が来ましたか。
+"Who came?"
+
+あさんが来ました。
+"Mr. A came."
+
+
