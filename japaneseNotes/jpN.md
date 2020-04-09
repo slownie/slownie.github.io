@@ -10,6 +10,8 @@ title: "Japanese Notes"
 [Radicals](basics/radicals.md)  
 
 # Grammar
+[Sentence Structure](basics/../grammar/sentenstruc.md)  
+[Particles](basics/../grammar/particles.md)  
 
 # Vocabulary
 
