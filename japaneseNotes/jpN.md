@@ -16,5 +16,5 @@ title: "Japanese Notes"
 # Vocabulary
 [Daily Expressions](vocabulary/dailyexp.md)
 
-
 # Kanji
+[Jōyō 1](kanji/joyo1.md)
