@@ -15,14 +15,21 @@ title: Jōyō Kanji 1
 |八|ハチ (Hachi), ハツ (Hashi)|や (Ya), やつ (Yatsu)|Eight|
 |九|キュウ (Kyū), ク (Ku)|ここの (Kokono), ここのつ (Kokonotsu)|Nine|
 |十|ジュ (Jū) |とう (Tō)|Ten|
+|百|ヒャク (Hyaku)|もも (Momo)|Hundred|
+|千|セン (Sen)|ち (Chi)|Thousand|
+|円|エン (En)|まるい (Marui)|Yen, Circle, Round|
+|人|ジン(Jin), ニン(Nin)|ひと(Hito)|Person|
+|年|ネン (Nen)|とし (Toshi)|Year|
+|||||
 |日|ニチ (Nichi), ジツ (Jitsu)|ひ (Hi)|Day, Sun|
 |月|ゲツ (Getsu), ガツ (Gatsu)|つき (Tsuki)|Month, Moon|
-|人|ジン(Jin), ニン(Nin)|ひと(Hito)|Person|
 |火|カ (Ka)|ひ (Hi)|Fire, Flame|
 |水|スイ (Sui)|みず (Mizu)|Water|
 |木|モク (Moku), ボク (Boku)|き (Ki)|Tree, Wood|
 |金|キン (Kin), コン (Kon)|かね (Kane)|Gold, Money|
 |土|ド (Do), ト (To)|つち (Tsuchi)|Earth, Ground|
+||||||
+||| ()|Above, Up|
 |本|ホン (Hon)|N/A|Book|
 |山|サン (San)| やま(Yama)|Mountain|　
 |目|モク (Moku), ボク(Boku)| め(Me)|Eye|
