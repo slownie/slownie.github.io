@@ -23,5 +23,10 @@ title: Jōyō Kanji 1
 |木|モク (Moku), ボク (Boku)|き (Ki)|Tree, Wood|
 |金|キン (Kin), コン (Kon)|かね (Kane)|Gold, Money|
 |土|ド (Do), ト (To)|つち (Tsuchi)|Earth, Ground|
-|本|ホン (Hon)|N/A|Book|　
+|本|ホン (Hon)|N/A|Book|
+|山|サン (San)| やま(Yama)|Mountain|　
+|目|モク (Moku), ボク(Boku)| め(Me)|Eye|
+|見|ケン (Ken)| みる(Miru), みせる(Miseru)|To see, to show|
+|行|コウ (Kō), アン(An)| (iku), (yuku), (okonau)|To go|
+|| 
 
