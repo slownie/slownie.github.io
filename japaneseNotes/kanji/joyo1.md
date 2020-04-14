@@ -4,7 +4,7 @@ title: Jōyō Kanji 1
 ---
 
 |Kanji|Onyomi|Kunyomi|Meaning|
-|-----|------|-------|-------|
+|:-----:|:------:|:-------:|:-------:|
 |一|イチ (Ichi), イツ (Itsu)|ひと (Hito), ひとつ (Hitotsu)|One|
 |ニ|ニ (Ni)|ふた (Futa), ふたつ (Futatsu)|Two|
 |三|サン (San)|み (Mi), みつ (Mitsu)|Three|
@@ -18,7 +18,7 @@ title: Jōyō Kanji 1
 |百|ヒャク (Hyaku)|もも (Momo)|Hundred|
 |千|セン (Sen)|ち (Chi)|Thousand|
 |円|エン (En)|まるい (Marui)|Yen, Circle, Round|
-|人|ジン(Jin), ニン(Nin)|ひと(Hito)|Person|
+|人|ジン (Jin), ニン (Nin)|ひと(Hito)|Person|
 |年|ネン (Nen)|とし (Toshi)|Year|
 |||||
 |日|ニチ (Nichi), ジツ (Jitsu)|ひ (Hi)|Day, Sun|
@@ -29,7 +29,11 @@ title: Jōyō Kanji 1
 |金|キン (Kin), コン (Kon)|かね (Kane)|Gold, Money|
 |土|ド (Do), ト (To)|つち (Tsuchi)|Earth, Ground|
 ||||||
-||| ()|Above, Up|
+|上|ジョウ (Jō), ショウ (Shō)|うえ (Ue), あげる/あがる (Ageru/Agaru), のぼる (Noboru)|Above, Up|
+|下|カ (Ka), ゲ (Ge)|した (Shita), さげる/さがる (Sageru/Sagaru), くだる (Kudaru)|Below, Down|
+|左|サ (Sa)|ひだり (Hidari)|Left|
+|右|ユウ (Yū)|みぎ (Migi)　|Right|
+||||||
 |本|ホン (Hon)|N/A|Book|
 |山|サン (San)| やま(Yama)|Mountain|　
 |目|モク (Moku), ボク(Boku)| め(Me)|Eye|

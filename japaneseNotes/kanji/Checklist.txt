@@ -1,8 +1,13 @@
 Checklist:
-One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten
-Hundred, Thousand, Yen, Person, Year
-Day, Moon, Fire, Water, Tree, Gold, Earth
-Big, Small, Man, Woaman, Child
+Person, Big, Small, Man, Woman, Child
+
+Categories:
+
+Numbers:
+One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Hundred, Thousand, Yen
+
+Elements/Days of the Week:
+Sun, Moon, Fire, Water, Tree, Gold, Earth, Year
 
 To-Do:
 Inside, To Exit, Life, Above, To Enter, Study, 

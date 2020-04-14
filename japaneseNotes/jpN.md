@@ -17,4 +17,9 @@ title: "Japanese Notes"
 [Daily Expressions](vocabulary/dailyexp.md)
 
 # Kanji
-[Jōyō 1](kanji/joyo1.md)
+<!--
+Not official categories, this just simplifies things
+-->
+Jōyō 1
+* [Numbers](kanji/joyo1/numbers.md)
+* [Elements/Days of the Week](kanji/joyo1/elements.md)
