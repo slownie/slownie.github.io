@@ -8,6 +8,7 @@ title: "Home"
 
 # Welcome
 
-I'm reviving this page., it'll look blank for a while.
+I'm reviving this page., it'll look blank for a while.  
 
-[Link to Japanese Notes](japaneseNotes/jpN.md)
+[Programming Projects](programming/prg.md)   
+[Japanese Notes](japaneseNotes/jpN.md)

@@ -1,18 +1,22 @@
-Checklist:
-Person, Big, Small, Man, Woman, Child
-
-Categories:
-
 Numbers:
-One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Hundred, Thousand, Yen
+One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, 
+Hundred, Thousand, Yen
 
 Elements/Days of the Week:
-Sun, Moon, Fire, Water, Tree, Gold, Earth, Year
+Day, Month, Fire, Water, Tree, Gold, Earth, Year
 
-To-Do:
-Inside, To Exit, Life, Above, To Enter, Study, 
-Below, Spirit, Previous, Name, River, 
-School, Car, White, Sky, Right, Left, Rest, Stand, Hand, Power
-Rice Field, Justice, Sentence, Mouth, Town, Void, Rain, Foot, Fast, Character
-Sound, Flower, Red, Blue, Village, Evening, Stone, Bamboo, Forest
-Grove, King, Dog, Jewel, Grass, Ear, Insect, Thread, Shellfish
+Nature:
+Life, Spirit, Evening, Heavens, Sky, Rain, Mountain, Stone, 
+Stream, Shellfish, Rice Field, Grass, Dog, Forest, Grove, 
+Bamboo, Flower, Insect 
+
+Directions:
+Enter, Above, Below, Inside, Right, Left, Exit, Before, Early
+
+People:
+Person, Man, Woman, Little, Large, Mouth, Hand, Ear, Eye,
+Name, Leg, See, Sound, Stand Up, Rest
+
+Concepts:
+Power, Setence, King, Book, Jewel, White, Correct, Thread, Character
+Red, Town, Car, Village, Blue, Sudy, Exam
