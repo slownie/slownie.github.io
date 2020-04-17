@@ -14,8 +14,8 @@ Directions:
 Above, Below, Left, Right, Enter, Inside, Exit, Before, Early
 
 People:
-Person, Man, Woman, Little, Large, Mouth, Hand, Ear, Eye,
-Name, Leg, See, Sound, Stand Up, Rest
+Person, Man, Woman, Child, Little, Large, Name, Ear, Eye, Mouth, 
+Hand, Leg, See, Sound, Stand Up, Rest
 
 Concepts:
 Power, Setence, King, Book, Jewel, White, Correct, Thread, Character
