@@ -24,3 +24,6 @@ Jōyō 1
 * [Numbers](kanji/joyo1/numbers.md)
 * [Elements/Days of the Week](kanji/joyo1/elements.md)
 * [Nature](kanji/joyo1/nature.md)
+* [Directions](kanji/joyo1/directions.md)
+* [People](kanji/joyo1/people.md)
+* [Concepts](kanji/joyo1/concepts.md)

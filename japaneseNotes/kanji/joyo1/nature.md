@@ -22,7 +22,7 @@ title: Jōyō 1 - Nature
 |犬|ケン (Ken)|いぬ (Inu)|Dog|
 |森|シン (Shin)|もり (Mori)|Forest, Woods|
 |林|リン (Rin)|はやし (Hayashi)|Grove, Forest|
-|竹|チク| (Chiku)|たけ (Take)|Bamboo|
+|竹|チク (Chiku)|たけ (Take)|Bamboo|
 |花|カ (Ka), ケ (Ke)|はな (Hana)|Flower|
 |虫|チュウ (Chū), キ (Ki)|むし (Mushi)|Insect|
 

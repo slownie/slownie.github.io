@@ -11,7 +11,7 @@ Stream, Shellfish, Rice Field, Grass, Dog, Forest, Grove,
 Bamboo, Flower, Insect 
 
 Directions:
-Enter, Above, Below, Inside, Right, Left, Exit, Before, Early
+Above, Below, Left, Right, Enter, Inside, Exit, Before, Early
 
 People:
 Person, Man, Woman, Little, Large, Mouth, Hand, Ear, Eye,
