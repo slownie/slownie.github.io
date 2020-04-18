@@ -18,7 +18,7 @@ title: Jōyō 1 - Elements
 
 With the exception of 年, all of the kanji in this section are used in the day of the week.
 |Kanji|Romaji|Meaning|
-|:---:|:---:|:---:|
+|:-----:|:-----:|:-----:|
 |日曜日|Nichiyôbi|Sunday|
 |月曜日|Getsuyôbi|Monday| 
 |火曜日|Kayôbi|Tuesday|
