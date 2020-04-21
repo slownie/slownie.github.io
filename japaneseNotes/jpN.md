@@ -11,7 +11,8 @@ title: "Japanese Notes"
 
 # Grammar
 * [Sentence Structure](grammar/sentenstruc.md)  
-* [Particles](grammar/particles.md)  
+* [Particles](grammar/particles.md) 
+* [Ending Particles](grammar/endparticles.md) 
 
 # Vocabulary
 * [Greetings and Farewells](vocabulary/greetandfare.md)
