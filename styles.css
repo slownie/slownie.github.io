@@ -1,0 +1,88 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: white;
+    background-color: #4E6151;
+    padding-top: 96px;
+    padding-bottom: 24px;
+}
+
+h1 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+
+.links {
+    color: white;
+}
+
+.links ul {
+    padding:0;
+    list-style:none;
+    text-align: center;
+}
+
+.links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.links a {
+    color:#4E6151;
+    text-decoration: none;
+    font-size: 28px;
+}
+
+.social {
+    text-align: right;
+    font-size: 36px;
+}
+
+
+
+.all {
+    background-color: #4E6151;
+}
+
+.about {
+    /* background-color:red; */
+    background-color: #3B322C;
+}
+
+.projects {
+    /* background-color:aqua; */
+    background-color: #3B322C;
+}
+
+.contact {
+    /* background-color: lime; */
+    background-color: #3B322C;
+}
+
+.contact ul {
+    padding:0;
+    list-style:none;
+    text-align: center;
+}
+
+.contact li {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.contact a {
+    color:#72BDA3;
+    text-decoration: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+}
+

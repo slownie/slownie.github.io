@@ -4,40 +4,125 @@
     <title>Samuel Yamanaka Lownie</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="sam">
+   
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    
+    <link href="styles.css" rel="stylesheet">
   </head>
 
-  <body>
-    <nav>
-      <div class="links">
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </div>
-
-      <div class="col-3">
-        <div class="social">
-          <a href="https://github.com/slownie">Github</a>
-          <a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/">LinkedIn</a>
-          <a href="">Resume</a>
-        </div>
-
-
-        <div class="main">
-          <h1>Samuel Lownie</h1>
-        </div>
-
-        <div class="about">
-          <h1>About</h1>
-        </div>
-
-        <div class="projects">
-          <h1>Projects</h1>
-        </div>
-        
-        <div class="contact">
-          <h1>Contact Me</h1>
-        </div>
+  <div class="all">
+    <nav class="navbar fixed-top navbar-expand-lg" style="overflow: hidden; background-color: #72BDA3; padding: 12px 16px;" >
+      <div class="container">
+          <div class="col-9">
+            <div class="links">
+              <ul class="navbar-nav me-auto  mb-2 mb-lg-0">
+                <li>  
+                  <a href="#about">About</a>
+                </li>
+                <li>
+                  <a href="#projects">Projects</a>
+                </li>
+                <li>
+                  <a href="#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+            
+          <div class="col-3">
+            <div class="social">
+              <a href="https://github.com/slownie"><i class="bi-github" style="height:100%;color:black;border:10% solid black"></i></a>
+              <a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/"><i class="bi-linkedin" style="height:100%;color:black;border:10% solid black"></i></a>
+              <a href="https://slownie.github.io/Resume.pdf"><i class="bi-file-earmark-richtext-fill" style="height:100%;color:black;border:10% solid black"></i></a>
+            </div>
+          </div>
       </div>
     </nav>
+
+        <div class="container">
+          <h1>Samuel Yamanaka (山中) Lownie</h1>
+          
+          <div class="about" id="about">
+            <h1>About</h1>
+            <div class="container">
+              <p>
+                4th Year Artificial Intelligence Student at Queen's University.
+              </p>
+            </div>
+            <br/>
+          </div>
+
+          <div class="projects" id="projects">
+            <h1>Projects</h1>
+            <div class="container">
+              <!--Description-->
+              
+                <!--Projects-->
+                <div class="row">
+                  
+                  <div class="col">
+                    <div class="card text-center " style="width: 18rem;">
+                      <img src="./assets/vegetable-stock.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Recipe App</h5>
+                        <p class="card-text">A web application where users can create, save, and share their recipes with the world. <br/><br/>Uses JavaScript, NodeJS, and SQL.</p>
+                        <a href="https://github.com/slownie/recipe-app" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div class="col">
+                    <div class="card text-center" style="width: 18rem;">
+                      <img src="./assets/Anki-icon.svg.png" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Anki Auto Carder</h5>
+                        <p class="card-text">A Python script that converts .txt and .csv files into Anki cards and adds them into a user-defined deck. <br/><br/>Uses Python.</p>
+                        <a href="https://github.com/slownie/ankiautogen" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
+                      </div>
+                    </div>
+                  </div>
+
+                    <div class="col">
+                      <div class="card text-center" style="width: 18rem;">
+                        <img src="./assets/faWbMyTh.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">InfiniteRecharge Robot</h5>
+                            <p class="card-text">The source and tooling behind FRC team 5024's 2020 competition robot for the game, Infinite Recharge. <br/><br/><br/>Uses Java and Python.</p>
+                            <a href="https://github.com/frc5024/InfiniteRecharge" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
+                        </div>
+                      </div>
+                  </div> 
+                </div>
+            </div>
+            <br/>
+          </div>
+
+          <div class="contact" id="contact">
+            <footer>
+              <h1>Contact Me</h1>
+              <div class="container">
+                  <div class="row">
+                    <div class="col-3">
+                      <p>Images found on Google.</p>
+                    </div>
+                    <div class="col-6">
+                        <ul>
+                          <li><a href="https://github.com/slownie">GitHub</a></li>
+                          <li><a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/">LinkedIn</a></li>
+                          <li><a href="https://slownie.github.io/Resume.pdf">Resume</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-3">
+                      <p>Website by Samuel Lownie</p>
+                    </div>
+                  </div>
+              </div>
+            </footer>
+          </div>
+      </div>
+    </div>
   </body>
 </html>
