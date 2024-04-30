@@ -13,50 +13,52 @@
     <link href="styles.css" rel="stylesheet">
   </head>
 
-  <div class="all">
-    <nav class="navbar fixed-top navbar-expand-lg" style="overflow: hidden; background-color: #72BDA3; padding: 12px 16px;" >
-      <div class="container">
-          <div class="col-9">
-            <div class="links">
-              <ul class="navbar-nav me-auto  mb-2 mb-lg-0">
-                <li>  
-                  <a href="#about">About</a>
-                </li>
-                <li>
-                  <a href="#projects">Projects</a>
-                </li>
-                <li>
-                  <a href="#contact">Contact</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-            
-          <div class="col-3">
-            <div class="social">
-              <a href="https://github.com/slownie"><i class="bi-github" style="height:100%;color:black;border:10% solid black"></i></a>
-              <a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/"><i class="bi-linkedin" style="height:100%;color:black;border:10% solid black"></i></a>
-              <a href="https://slownie.github.io/Resume.pdf"><i class="bi-file-earmark-richtext-fill" style="height:100%;color:black;border:10% solid black"></i></a>
-            </div>
-          </div>
-      </div>
-    </nav>
-
+  <body>
+    <div class="all">
+      <nav class="navbar fixed-top navbar-expand-lg" style="overflow: hidden; background-color: #242526; padding: 12px 16px; box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);" >
         <div class="container">
-          <h1>Samuel Yamanaka (山中) Lownie</h1>
-          
+            <div class="col-9">
+              <div class="links">
+                <ul class="navbar-nav me-auto  mb-2 mb-lg-0">
+                  <li>  
+                    <a href="#about">About</a>
+                  </li>
+                  <li>
+                    <a href="#projects">Projects</a>
+                  </li>
+                  <li>
+                    <a href="#contact">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+              
+            <div class="col-3">
+              <div class="social">
+                <a href="https://github.com/slownie" target="_blank"><i class="bi-github" style="height:100%;color: #E4E6EB;border:10% solid black"></i></a>
+                <a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/" target="_blank"><i class="bi-linkedin" style="height:100%;color:#E4E6EB;border:10% solid black"></i></a>
+                <a href="https://slownie.github.io/Resume.pdf" target="_blank"><i class="bi-file-earmark-richtext-fill" style="height:100%;color:#E4E6EB;border:10% solid black"></i></a>
+              </div>
+            </div>
+        </div>
+      </nav>
+
+      <div class="container">
+        <h1 style="text-align:center">Samuel Yamanaka (山中) Lownie</h1>
+        <hr/>
+        <div style="border-radius: 25px">
+          <h1>About</h1>
           <div class="about" id="about">
-            <h1>About</h1>
             <div class="container">
               <p>
-                4th Year Artificial Intelligence Student at Queen's University.
+                Graduate from Queen's University.
               </p>
             </div>
-            <br/>
           </div>
 
+          <h1>Projects</h1>
           <div class="projects" id="projects">
-            <h1>Projects</h1>
+            
             <div class="container">
               <!--Description-->
               
@@ -64,11 +66,13 @@
                 <div class="row">
                   
                   <div class="col">
-                    <div class="card text-center " style="width: 18rem;">
+                    <div class="card text-center" style="width: 18rem; ">
                       <img src="./assets/vegetable-stock.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Recipe App</h5>
-                        <p class="card-text">A web application where users can create, save, and share their recipes with the world. <br/><br/>Uses JavaScript, NodeJS, and SQL.</p>
+                        <hr/>
+                        <p class="card-text" >A web application where users can create, save, and share their recipes with the world. <br/><br/>Uses JavaScript, NodeJS, and SQL.</p>
+                        <hr/>
                         <a href="https://github.com/slownie/recipe-app" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
                       </div>
                     </div>
@@ -79,7 +83,9 @@
                       <img src="./assets/Anki-icon.svg.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Anki Auto Carder</h5>
-                        <p class="card-text">A Python script that converts .txt and .csv files into Anki cards and adds them into a user-defined deck. <br/><br/>Uses Python.</p>
+                        <hr/>
+                        <p class="card-text">A Python script that converts .txt and .csv files into Anki cards and adds them into a user-defined deck. <br/><br/><br/>Uses Python.</p>
+                        <hr/>
                         <a href="https://github.com/slownie/ankiautogen" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
                       </div>
                     </div>
@@ -89,8 +95,10 @@
                       <div class="card text-center" style="width: 18rem;">
                         <img src="./assets/faWbMyTh.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">InfiniteRecharge Robot</h5>
-                            <p class="card-text">The source and tooling behind FRC team 5024's 2020 competition robot for the game, Infinite Recharge. <br/><br/><br/>Uses Java and Python.</p>
+                            <h5 class="card-title">Darth Raider</h5>
+                            <hr/>
+                            <p class="card-text">The source and tooling behind FRC team 5024's 2020 competition robot for the game, Infinite Recharge. <br/><br/>Uses Java and Python.</p>
+                            <hr/>
                             <a href="https://github.com/frc5024/InfiniteRecharge" target="_blank" rel="noopener noreferrer" class="btn btn-success">Link to Project on GitHub</a>
                         </div>
                       </div>
@@ -100,29 +108,22 @@
             <br/>
           </div>
 
+          <h1>Contact Me</h1>
           <div class="contact" id="contact">
             <footer>
-              <h1>Contact Me</h1>
               <div class="container">
                   <div class="row">
-                    <div class="col-3">
-                      <p>Images found on Google.</p>
-                    </div>
-                    <div class="col-6">
-                        <ul>
-                          <li><a href="https://github.com/slownie">GitHub</a></li>
-                          <li><a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/">LinkedIn</a></li>
-                          <li><a href="https://slownie.github.io/Resume.pdf">Resume</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-3">
-                      <p>Website by Samuel Lownie</p>
-                    </div>
+                    <ul>
+                      <li><a href="https://github.com/slownie" target="_blank">GitHub</a></li>
+                      <li><a href="https://www.linkedin.com/in/samuel-lownie-ab125216a/" target="_blank">LinkedIn</a></li>
+                      <li><a href="https://slownie.github.io/Resume.pdf" target="_blank">Resume</a></li>
+                    </ul>
                   </div>
-              </div>
-            </footer>
+                </div>
+              </footer>
+            </div>
           </div>
+        </div>
       </div>
-    </div>
   </body>
 </html>
