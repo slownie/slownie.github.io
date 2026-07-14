@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+    <title>Turn-Based RPG</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Samuel Yamanaka Lownie's portfolio">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="\styles.css">
+  </head>
+  <body>
+    <header class="my-header">
+      <h1>Turn-Based RPG</h1>
+      <nav class="nav-links">
+        <a target="_blank" href="https://github.com/slownie/turn-based-combat-rewrite">GitHub Project</a>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <p>
+          Two very helpful resources for this project were GDQuest's <a target="_blank" href="https://github.com/gdquest-demos/godot-open-rpg">OpenRPG</a> and hoveringskull's <a target="_blank" href="https://www.youtube.com/playlist?list=PLeXVmDGDj4ZgL0lD4k8VioKITaWbHJt5X">Monster Battler Series</a>.
+        </p>
+        <p>  
+          OpenRPG provides a base-line implementation for Active Turn styled battles like those found in Final Fantasy as well as a general flow from Overworld to Combat.
+          <br>
+          However, there
+        </p>
+      </section>
+
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Condition Name</th>
+            <th scope="col">Effect</th>
+            <th scope="col">Trigger</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row" class="fire-element">Burn</th>
+            <td>User takes 8% of MaxHP in damage.</td>
+            <td>End of User Turn</td>
+          </tr>
+          <tr>
+            <th scope="row" class="water-element">Drain</th>
+            <td>User loses 32% of MaxMP in energy.</td>
+            <td>Start of User Turn</td>
+          </tr>
+          <tr>
+            <th scope="row" class="wind-element">Confuse</th>
+            <td>User randomly selects an action.</td>
+            <td>Start of User Turn</td>
+          </tr>
+          <tr>
+            <th scope="row" class="earth-element">Break</th>
+            <td>User cannot use Physical skills.</td>
+            <td>Always</td>
+          </tr>
+          <tr>
+            <th scope="row" class="steam-element">Seal</th>
+            <td>User cannot use Elemental skills.</td>
+            <td>Always</td>
+          </tr>
+          <tr>
+            <th scope="row" class="electric-element">Overdrive</th>
+            <td>User ignores the HP & MP cost for skills.</td>
+            <td>On User Do Action??</td>
+          </tr>
+          <tr>
+            <th scope="row" class="metal-element">Cleave</th>
+            <td>User ignores the target's affinity.</td>
+            <td>On User Do Attack</td>
+          </tr>
+          <tr>
+            <th scope="row" class="ice-element">Frostbite</th>
+            <td>User retaliates when attacked.</td>
+            <td>On User Take Damage</td>
+          </tr>
+          <tr>
+            <th scope="row" class="life-element">Immortality</th>
+            <td>User's HP cannot reach 0.</td>
+            <td>On User Take Damage</td>
+          </tr>
+          <tr>
+            <th scope="row" class="gravity-element">Elevate</th>
+            <td>%-based effects will always occur.</td>
+            <td>On User Do Action??</td>
+          </tr>
+        </tbody>
+        
+      </table>
+
+      <footer>
+        <p>Back to <a href="/">home page</a>.</p>
+        
+      </footer>
+    </main>
+  </body>
+  </html>

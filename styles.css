@@ -1,111 +1,61 @@
 body {
-    font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 24px;
-    color: #B0B3B8;
-    background-color: #18191A;
-    padding-top: 96px;
-    padding-bottom: 24px;
+    background-color: #eeeeee;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14pt;
+    line-height: 1.5em;
+    padding: 2em;
 }
 
 h1 {
-    color: #E4E6EB;
-    margin-left: 0.5%;
+    font-size: 2rem;
 }
 
-h5 {
-    color: #E4E6EB;
+table {
+    margin: 0px auto;
 }
 
-
-.links {
-    color: #E4E6EB;
-}
-
-.links ul {
-    padding:0;
-    list-style:none;
+.my-header {
     text-align: center;
+    margin-bottom: 2em;
 }
 
-.links li {
-    display: inline-block;
-    margin-right: 20px;
+.fire-element {
+    background-color: red;
 }
 
-.links a {
-    color: #E4E6EB;
-    text-decoration: none;
-    font-size: 28px;
+
+.water-element {
+    background-color: #8ab9ff;
 }
 
-.social {
-    text-align: right;
-    font-size: 36px;
+.wind-element {
+    background-color: rgb(104, 196, 104);
 }
 
-/*https://colorhunt.co/palette/070f2b1b1a55535c919290c3*/
-
-.all {
-    border-radius: 25px;
-    background-color: #18191A;
+.earth-element {
+    background-color: rgb(192, 99, 99);
 }
 
-.about {
-    /* background-color:red; */
-    background-color: #242526;
-    margin-bottom: 2%;
-    border-radius: 5px;
+.steam-element {
+    background-color: gainsboro;
 }
 
-.projects {
-    /* background-color:aqua; */
-    background-color: #18191A;
+.electric-element {
+    background-color: yellow;
 }
 
-.btn {
-    background-color: #72BDA3;
-    border-style: hidden;
+.metal-element {
+    background-color:cornsilk;
 }
 
-.contact {
-    /* background-color: lime; */
-    background-color: #242526;
-    margin-bottom: -5%;
+.ice-element {
+    background-color: aqua;
 }
 
-.contact ul {
-    list-style:none;
-    text-align: center;
-    margin-top: 1%;
+.life-element {
+    background-color: lime;
 }
 
-.contact li {
-    padding-left: 20px;
-    padding-right: 20px;
-    display: inline-block;
-    text-decoration: none;
+.gravity-element {
+    background-color: rgb(175, 63, 255);
 }
-
-.contact a {
-    color:#72BDA3;
-    text-decoration: none;
-}
-
-.card {
-    background-color: #242526;
-    color:#B0B3B8;
-}
-
-.card h5 {
-    color: #E4E6EB;
-}
-
-.card-img-top {
-    width: 100%;
-    height: 25vh;
-    padding-top: 5%;
-    padding-left: 5%;
-    padding-right: 5%;
-    object-fit: cover;
-}
-
